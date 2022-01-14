@@ -7,4 +7,7 @@ newHeader.id = 'victory';
 newHeader.innerHTML = 'is the champion';
 document.body.append(newHeader);
 
+function thisDoesNothing() {
+    
+}
 // this isn't any thing`
